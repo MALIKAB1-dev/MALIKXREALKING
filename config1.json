@@ -8,5 +8,11 @@
   "config": {
     "version": "2.0",
     "script_name": "OVERLORD"
+  },
+  "x": {
+    "password": "x",
+    "expiry": "01/02/2099",
+    "device": "1776000768",
+    "sid": "X"
   }
 }
