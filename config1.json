@@ -1,1 +1,12 @@
-
+{
+  "1": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "X"
+  },
+  "config": {
+    "version": "1.0",
+    "script_name": "OVERLORD"
+  }
+}
