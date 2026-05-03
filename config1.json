@@ -1,10 +1,4 @@
 {
-  "2": {
-    "password": "2",
-    "expiry": "3/5/2026",
-    "device": "1776000768",
-    "sid": "X"
-  },
   "config": {
     "version": "2.0",
     "script_name": "OVERLORD"
