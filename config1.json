@@ -38,5 +38,11 @@
     "expiry": "13/5/2026",
     "device": "1778290680",
     "sid": "X"
+  },
+  "TEST": {
+    "password": "XMALIK",
+    "expiry": "",
+    "device": "",
+    "sid": "X"
   }
 }
