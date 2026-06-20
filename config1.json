@@ -60,7 +60,7 @@
   "fab": {
     "password": "fab123",
     "expiry": "21/06/2026",
-    "device": "1781927535",
+    "device": "DEV_0_1781927535",
     "sid": "X"
   }
 }
