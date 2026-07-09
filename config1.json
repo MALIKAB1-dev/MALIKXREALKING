@@ -44,11 +44,5 @@
     "expiry": "01/01/2099",
     "device": "1780274653",
     "sid": "X"
-  },
-  "Rodge": {
-    "password": "Rodge123",
-    "expiry": "7/7/2026",
-    "device": "DEV_0_1782773744",
-    "sid": "X"
   }
 }
