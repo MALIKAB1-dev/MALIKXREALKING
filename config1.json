@@ -56,5 +56,11 @@
     "expiry": "14/07/2026",
     "device": "DEV_0_1783914987",
     "sid": "X"
+  },
+  "@cnc_lambo": {
+    "password": "KK11NNGG",
+    "expiry": "22/07/2026",
+    "device": "DEV_0_1784593153",
+    "sid": "X"
   }
 }
