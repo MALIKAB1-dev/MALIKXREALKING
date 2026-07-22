@@ -63,10 +63,16 @@
     "device": "DEV_0_1784593153",
     "sid": "X"
   },
-  "亗『LEGEND』亗": {
+  "äºãLEGENDãäº": {
     "password": "Batonas123.",
     "expiry": "24/07/2026",
     "device": "DEV_0_1784648415",
+    "sid": "X"
+  },
+  "SHADOW": {
+    "password": "lazapies717",
+    "expiry": "24/07/2026",
+    "device": "DEV_0_1784743421",
     "sid": "X"
   }
 }
