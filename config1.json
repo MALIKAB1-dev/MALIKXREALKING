@@ -69,16 +69,16 @@
     "device": "DEV_0_1784743421",
     "sid": "X"
   },
-  "äºãLEGENDãäº": {
-    "password": "Batonas123.",
-    "expiry": "24/07/2026",
-    "device": "DEV_0_1784648415",
-    "sid": "X"
-  },
   "_TURBO_": {
     "password": "1234",
     "expiry": "01/01/2099",
     "device": "DEV_0_1784818114",
+    "sid": "X"
+  },
+  "亗『LEGEND』亗": {
+    "password": "Batonas123.",
+    "expiry": "25/07/2026",
+    "device": "DEV_0_1784648415",
     "sid": "X"
   }
 }
