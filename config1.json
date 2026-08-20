@@ -92,5 +92,11 @@
     "expiry": "01/01/2099",
     "device": "DEV_0_1787028252",
     "sid": "X"
+  },
+  "projectlambo": {
+    "password": "123",
+    "expiry": "21/08/2026",
+    "device": "1769001151688266788",
+    "sid": "X"
   }
 }
